@@ -1,6 +1,6 @@
 <?php
 
-namespace nastradamus39\tewloger;
+namespace nastradamus39\tewlogger;
 
 /**
  * Very simple http client to send very simple post requests
