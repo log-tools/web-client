@@ -1,0 +1,19 @@
+{
+  "name": "nastradamus39/http-client",
+  "description": "Simple http client to send simple POST request",
+  "keywords": ["bot", "log", "http"],
+  "type": "",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Alex Krizhanovsky",
+      "email": "krizhanovsky@ruvents.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "nastradamus39\\": ""
+    }
+  }
+}
