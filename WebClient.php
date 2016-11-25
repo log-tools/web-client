@@ -1,6 +1,6 @@
 <?php
 
-namespace nastradamus39;
+namespace nastradamus39\tewloger;
 
 /**
  * Very simple http client to send very simple post requests
@@ -8,7 +8,7 @@ namespace nastradamus39;
  * Class WebBot
  * @package nastradamus39
  */
-class HttpClient
+class WebClient
 {
 
     /** @var string $URL */

@@ -1,5 +1,5 @@
 {
-  "name": "nastradamus39/http-client",
+  "name": "nastradamus39/web-client",
   "description": "Simple http client to send simple POST request",
   "keywords": ["bot", "log", "http"],
   "type": "",
@@ -7,13 +7,13 @@
   "authors": [
     {
       "name": "Alex Krizhanovsky",
-      "email": "krizhanovsky@ruvents.com"
+      "email": "alex@enot.vc"
     }
   ],
   "require": {},
   "autoload": {
     "psr-4": {
-      "nastradamus39\\": ""
+      "nastradamus39\\tewloger\\": ""
     }
   }
 }
